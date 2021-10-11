@@ -12,6 +12,12 @@
   <svg viewBox="0 0 128 128">
   <img align="center" alt="Marcos-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </div>
-
+ 
+   ##
+   
+ <div>
+   <a href="https://www.linkedin.com/in/marcos-antonio-ti/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
+ </div>
 
 
