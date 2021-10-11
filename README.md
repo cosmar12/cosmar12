@@ -1,8 +1,8 @@
 ### Ola Eu sou o Marcos 👋
 <div align="center">
   <a href="https://github.com/cosmar12">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cosmar12&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmar12&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=cosmar12&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmar12&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 </div>
   
  <div style="display: inline_block"><br>
